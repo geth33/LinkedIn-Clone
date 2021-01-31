@@ -4,7 +4,7 @@ import ThumbUpAltOutlinedIcon from "@material-ui/icons/ThumbUpAltOutlined"
 import ChatOutlinedIcon from "@material-ui/icons/ChatOutlined"
 import ShareOutlinedIcon from "@material-ui/icons/ShareOutlined"
 import SendOutlinedIcon from "@material-ui/icons/SendOutlined"
-import "./Post.css"
+import "./css/Post.css"
 import InputOption from './InputOption'
 
 const Post = forwardRef(( { name, description, message, photoUrl }, ref ) => {

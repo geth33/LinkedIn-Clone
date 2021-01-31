@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import "./Feed.css"
+import "./css/Feed.css"
 import CreateIcon from "@material-ui/icons/Create"
 import ImageIcon from "@material-ui/icons/Image"
 import SubscriptionsIcon from "@material-ui/icons/Subscriptions"
