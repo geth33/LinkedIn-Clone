@@ -3,7 +3,8 @@
 ![](images/homepage.png)
 
 ### About
-I made this clone as a part of a youtube tutorial I followed on React.js, Redux, and Firebase. The link to the tutorial is [here](https://www.youtube.com/watch?v=QaYts9sPmcY)
+I made this clone as a part of a youtube tutorial I followed on React.js, Redux, and Firebase. The link to the tutorial is [here](https://www.youtube.com/watch?v=QaYts9sPmcY) <br>
+I'll soon talk about this clone more on my website [here](http://brysonoar.com/) after I complete a second website clone (I'll consolidate these to one post on my website).
 
 ### Built With
 * React.js
